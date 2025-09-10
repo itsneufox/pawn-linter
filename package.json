@@ -1,0 +1,12 @@
+{
+  "name": "@community/pawn-linter",
+  "version": "1.0.0",
+  "description": "PAWN code linter and formatter",
+  "main": "index.js",
+  "author": "Community",
+  "license": "MIT",
+  "keywords": ["pawn", "linter", "formatter", "pawnctl", "addon"],
+  "pawnctl": {
+    "addon": true
+  }
+}

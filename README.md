@@ -1,3 +1,4 @@
+THIS IS NOT A REAL THING, JUST TO TEST ADDONS FOR PAWNCTL
 # PAWN Linter Addon
 
 A PAWN code linter and formatter addon for pawnctl.

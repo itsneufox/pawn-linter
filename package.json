@@ -1,5 +1,5 @@
 {
-  "name": "itsneufox/pawn-linter",
+  "name": "pawn-linter",
   "version": "1.0.0",
   "description": "PAWN code linter and formatter",
   "main": "index.js",

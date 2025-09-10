@@ -1,8 +1,8 @@
 {
-  "name": "@community/pawn-linter",
+  "name": "@itsneufox/pawn-linter",
   "version": "1.0.0",
   "description": "PAWN code linter and formatter",
-  "author": "Community",
+  "author": "itsneufox",
   "license": "MIT",
   "main": "index.js",
   "pawnctl": {
